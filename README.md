@@ -30,6 +30,45 @@
 - CHANGE BOT NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L67)
 
 
+
+##
+
+> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
+
+<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
+
+>මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
+
+>ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
+
+>දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
+
+>දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
+
+>දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
+
+>යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
+
+</b>
+</details>
+
+<!-- Contact Owner -->
+<b><details><summary>Contact Owner 😜</summary></b>
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94727785006"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+</p>
+
+</details>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
+## 𝐌𝐑: JANIYAH
+
+       
  
 
 ```
