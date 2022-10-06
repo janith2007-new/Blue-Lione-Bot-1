@@ -3,6 +3,9 @@
 <img src="https://i.ibb.co/x1SLFB2/Pics-Art-09-09-06-29-33.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
 
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+LION+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+LION+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+DOPE+JANIYAH:+☬𝔻𝔸ℝ𝕂༒SHAGGY;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+
+
 
 # Setup For Deployment 👇
 
