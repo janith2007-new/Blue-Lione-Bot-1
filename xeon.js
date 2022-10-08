@@ -161,10 +161,10 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xdate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                 xeonbody = `🐬 Hi👋 @${xeonName.split("@")[0]}
+                 xeonbody = `🪄 Hi👋 @${xeonName.split("@")[0]}
 
-🍁 Welcome To  ${metadata.subject}
-🍁 ${xmembers} Members
+🌝 Welcome To  ${metadata.subject}
+🪄 ${xmembers} Members
 
 Date 📆  =  ${xdate}
 Time ⏰ =  ${xtime} `
@@ -176,9 +176,9 @@ Time ⏰ =  ${xtime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
+    image: { url: 'https://telegra.ph/file/21a4390f3e083451f7f46.jpg/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+footer: `❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞`,
 buttons,
 headerType: 4
 }
@@ -190,10 +190,10 @@ XeonBotInc.sendMessage(anu.id, buttonMessage)
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                     xeonbody = `🐬 Bye👋 @${xeonName.split("@")[0]}
+                     xeonbody = `🤐 Bye👋 @${xeonName.split("@")[0]}
 
-🍁 Left From  ${metadata.subject}
-🍁 ${xeonmembers} Members
+🤐 Left From  ${metadata.subject}
+🪄 ${xeonmembers} Members
                     
 Date 📆 =  ${xeondate}
 Time ⏰ =  ${xeontime} `
@@ -205,7 +205,7 @@ Time ⏰ =  ${xeontime} `
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+    footer: `❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞`,
     buttons,
     headerType: 4
     }
